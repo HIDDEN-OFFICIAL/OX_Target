@@ -7,6 +7,9 @@ With Target Actions
 							
 
  Dependencies
+   
    ox_lib
+   
  ox_inventory
+ 
   ox_target
